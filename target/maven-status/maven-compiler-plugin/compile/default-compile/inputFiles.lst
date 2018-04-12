@@ -1,0 +1,11 @@
+D:\code\mars\read-search\src\main\java\com\web\read\solr\controller\ItemSolrController.java
+D:\code\mars\read-search\src\main\java\com\web\read\solr\bean\SearchResult.java
+D:\code\mars\read-search\src\main\java\com\web\read\solr\bean\Item.java
+D:\code\mars\read-search\src\main\java\com\web\read\solr\dao\impl\SearchDaoImpl.java
+D:\code\mars\read-search\src\main\java\com\web\read\solr\dao\SearchDao.java
+D:\code\mars\read-search\src\main\java\com\web\read\solr\mapper\ItemMapper.java
+D:\code\mars\read-search\src\main\java\com\web\read\solr\service\SearchService.java
+D:\code\mars\read-search\src\main\java\com\web\read\solr\service\ItemSolrService.java
+D:\code\mars\read-search\src\main\java\com\web\read\solr\service\impl\ItemSolrServiceImpl.java
+D:\code\mars\read-search\src\main\java\com\web\read\solr\service\impl\SearchServiceImpl.java
+D:\code\mars\read-search\src\main\java\com\web\read\solr\controller\SearchController.java

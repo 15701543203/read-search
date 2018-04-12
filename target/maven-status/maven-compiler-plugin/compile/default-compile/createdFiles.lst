@@ -1,0 +1,11 @@
+com\web\read\solr\bean\SearchResult.class
+com\web\read\solr\dao\SearchDao.class
+com\web\read\solr\dao\impl\SearchDaoImpl.class
+com\web\read\solr\service\impl\SearchServiceImpl.class
+com\web\read\solr\service\SearchService.class
+com\web\read\solr\controller\SearchController.class
+com\web\read\solr\mapper\ItemMapper.class
+com\web\read\solr\service\ItemSolrService.class
+com\web\read\solr\service\impl\ItemSolrServiceImpl.class
+com\web\read\solr\controller\ItemSolrController.class
+com\web\read\solr\bean\Item.class

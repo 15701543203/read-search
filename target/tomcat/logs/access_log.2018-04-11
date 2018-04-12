@@ -1,0 +1,2 @@
+127.0.0.1 - - [11/Apr/2018:11:04:39 +0800] "GET /search/query?page=1&q=%E8%8B%B9%E6%9E%9C HTTP/1.1" 200 19979 http-bio-8083-exec-1 34373
+127.0.0.1 - - [11/Apr/2018:11:08:18 +0800] "GET /search/query?page=1&q=%E6%B5%8B%E8%AF%95 HTTP/1.1" 200 1755 http-bio-8083-exec-3 34

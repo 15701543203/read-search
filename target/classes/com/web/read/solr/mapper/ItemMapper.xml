@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.web.read.solr.mapper.ItemMapper">
+	<select id="getItemList" resultType="com.web.read.solr.bean.Item">
+		SELECT
+			A.ID,
+			A.TITLE,
+			A.SELL_POINT,
+			A.PRICE,
+			A.IMAGE,
+			B. NAME AS CATEGARY_NAME
+		FROM
+			TB_ITEM AS A
+		LEFT JOIN TB_ITEM_CAT AS B ON A.CID = B.ID
+	</select>
+</mapper>
